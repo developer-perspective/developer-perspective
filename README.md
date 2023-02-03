@@ -1,6 +1,6 @@
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm sammed sankonatti </h1>
 
-<h3 align="center">software developer | passionate Coder | Gamer</h3>
+<h3 align="center">software engineer | passionate coder | Technology | Gamer</h3>
 <br>
 <p align=center>
 <a href="https://www.linkedin.com/in/sammed-sankonatti-bb7492148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sammed-sankonatti" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
