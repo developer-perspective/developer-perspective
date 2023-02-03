@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="24">, I'm sammed sankonatti </h1>
 
-<!--
-**developer-perspective/developer-perspective** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">software developer | passionate Coder | Gamer</h3>
+<br>
+<p align=center>
+<a href="https://www.linkedin.com/in/sammed-sankonatti-bb7492148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sammed-sankonatti" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/samsank31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammed-sankonatti" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/sammed.sankonatti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sammed-sankonatti" height="27" width="" /></a>&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://www.codechef.com/users/professor_samm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63065397/123329670-b11a5d00-d55a-11eb-8096-44ca8667f0e3.png" alt="sammed-sankonatti" height="27" width="" padding="" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/professor.sam" target="blank"><img align="center" src="https://logo.clearbit.com/codeforces.com" alt="sammed-sankonatti" height="27" width="" /></a>&nbsp;&nbsp;&nbsp; -->
+</p>
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-perspective&label=Profile%20visits&color=0e75b6&style=flat-square" alt="sammed-sankonatti" width="120" /> </p>
+
+ <!--
+___
+
+<h3 align="center" > 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+<br/>
