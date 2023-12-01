@@ -59,6 +59,12 @@ ___
 <br>
 <h2 align="center"> GitHub Stats </h2>
 <div align="center"><a href="https://github.com/developer-perspective">
+
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/sammed-sankonatti/sammed-sankonatti/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/sammed-sankonatti/sammed-sankonatti/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/sammed-sankonatti/sammed-sankonatti/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
   
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-perspective&hide_border=0&border_color=111f37&title_color=4285f4&icon_color=fbbc05&text_color=34a853&border_radius=0&bg_color=0d1117&theme=onedark&layout=compact" height="160" />-->
