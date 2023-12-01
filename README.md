@@ -12,7 +12,7 @@
 
 ___
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-perspective&label=Profile%20visits&color=0e75b6&style=flat-square" alt="sammed-sankonatti" width="120" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sammed-sankonatti&label=Profile%20visits&color=0e75b6&style=flat-square" alt="sammed-sankonatti" width="120" /> </p>
 
  <!--
 ___
@@ -49,8 +49,8 @@ ___
 <br/>
 
 
-<a href="https://github.com/developer-perspective">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-perspective&theme=buefy&layout=compact" />
+<a href="https://github.com/sammed-sankonatti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-sankonatti&theme=buefy&layout=compact" />
 </a>
 <br>
 
@@ -58,7 +58,7 @@ ___
 
 <br>
 <h2 align="center"> GitHub Stats </h2>
-<div align="center"><a href="https://github.com/developer-perspective">
+<div align="center"><a href="https://github.com/sammed-sankonatti">
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/sammed-sankonatti/sammed-sankonatti/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
@@ -67,8 +67,8 @@ ___
 
   
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-perspective&hide_border=0&border_color=111f37&title_color=4285f4&icon_color=fbbc05&text_color=34a853&border_radius=0&bg_color=0d1117&theme=onedark&layout=compact" height="160" />-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-perspective&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=3d5c8a&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="506"/>
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-sankonatti&hide_border=0&border_color=111f37&title_color=4285f4&icon_color=fbbc05&text_color=34a853&border_radius=0&bg_color=0d1117&theme=onedark&layout=compact" height="160" />-->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammed-sankonatti&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=3d5c8a&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="506"/>
  <br>
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sammed-sankonatti&count_private=true&show_icons=true&theme=onedark&title_color=4285f4&icon_color=fbbc05&text_color=34a853&hide_border=1&border_radius=0&bg_color=0f284db6&layout=compact&custom_title=sammed-sankonatti's GitHub Stats" alt="sammed-sankonatti" height="200" />
  e32f68&bg_color=40,fa913f,6b47ca&border_color=ffffff&title_color=ffffff&text_color=fff&icon_color=fff<br> -->
