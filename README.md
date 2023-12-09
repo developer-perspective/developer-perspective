@@ -50,7 +50,10 @@ ___
 
 
 <a href="https://github.com/sammed-sankonatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammed-sankonatti&theme=buefy&layout=compact" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammed-sankonatti&show_icons=true&locale=en&layout=compact" alt="sammed-sankonatti" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammed-sankonatti&show_icons=true&locale=en" alt="sammed-sankonatti" /></p>
+
+
 </a>
 <br>
 
